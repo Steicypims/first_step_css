@@ -1,0 +1,31 @@
+* {
+    background: white;
+    color: black;
+    }
+    /* 1.Selector por elemento de HTML */
+ h1 {
+    color: royalblue;
+    }
+    
+    /* 2. Selector por clase */
+    .p-1{
+        color: red;
+        }
+
+        /* 3.Selector por ID */
+        #cualquier-nombre{
+            color: orange;
+        }
+h5 {
+    background: purple;
+    padding: 30px;
+    border: 5px solid black;
+    margin: 10px;
+    }
+button {
+    background: black;
+    color: white;
+    padding: 30px;
+    border: 5px solid red;
+    margin: 10px;
+    }
